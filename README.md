@@ -22,7 +22,7 @@ This document described how to upload documents to a web-based asset management 
 
 ### 04_Conky-Help.pdf
 
-This documentation is the result of a personal project to create an informational overlay window used on my personal Linux laptop using the Conky software. All documentation was written according to the DITA standard using the open source XML Copy Editor and then generated to both PDF and Markdown using the DITA OT engine. 
+This documentation is the result of a small, personal project to create an informational overlay window used on my personal Linux laptop using the Conky software. All documentation was written according to the DITA standard using the open source XML Copy Editor and then generated to both PDF and Markdown using the DITA OT engine. See the project [https://github.com/wigwami/conky-files](here).
 		
 ### 05_Application_Hosting_Process_Excerpt.pdf
 
