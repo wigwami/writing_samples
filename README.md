@@ -10,7 +10,7 @@ The PDF files in this repository are a few samples of the different types of doc
 
 This 15-page guide documents an organization's new Administrative Center for Excellence (ACE) system. The guide orients users to the new system and summarizes basic tasks related to purchasing.
 	
-## 02_User-Guide_from_Online-Help.pdf
+### 02_User-Guide_from_Online-Help.pdf
 
 This guide documents an application used to track and maintain ski areas on land managed by a large U.S. government agency.  I wrote the content in this guide as single-source articles in RoboHelp and then published them to an online help system and also to this PDF.     
 	
@@ -34,7 +34,7 @@ This document contains two excerpts from a larger series of articles that descri
 
 I generated these three documents for a major data center migration project for a U.S. government agency. This project was extremely important to the agency and had high visibility at the executive level. The project talking points gave stakeholders a high-level overview of the project and its focus. I published the executive brief quarterly to update executives on the progress of important tasks. The program accomplishments was a yearly publication to highlight advancements and next steps.    
 	
-## 09_Process_Flow.pdf
+### 09_Process_Flow.pdf
 
 I generated this simple flow using Microsoft Visio to describe the plan-write-review-publish process for a technical writing team I managed. It's "swim lane" layout shows the various steps in the process and where the different responsible parties (writers, reviewers, etc.) perform their tasks.   
 
