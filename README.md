@@ -2,7 +2,7 @@
 
 The PDF files in this repository are a few samples of the different types of documentation that I've written and are organized into loose categories. I included a variety of writing styles (beyond just technical documentation) to demonstrate my range and ability to adapt to the needs of different audiences.  
 
-** Note:** There is significant work I've done in the last eight years for which I do not have examples. This work included API documentation, and although unfortunate, it couldn't be helped; the company I worked for had very strict policies about downloading content from the organization's network and I need to honor the agreement I signed. Of course, I'm happy to verbally explain these materials.  
+* Note: * There is significant work I've done in the last eight years for which I do not have examples. This work included API documentation, and although unfortunate, it couldn't be helped; the company I worked for had very strict policies about downloading content from the organization's network and I need to honor the agreement I signed. Of course, I'm happy to verbally explain these materials.  
 
 ## User Documentation
 
